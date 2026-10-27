@@ -1,10 +1,4 @@
 {
-  "version": 2,
-  "outputDirectory": ".",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/api/index.js"
-    }
-  ]
+“version”: 2,
+“outputDirectory”: “.”
 }
